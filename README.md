@@ -23,10 +23,10 @@ I am a full stack developer with a passion for coding, creativity and problem-so
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
 </p>
 <h3>Social :</h3>
-<a href="https://instagram.com/chinmaypardhi" >
+<a href="https://instagram.com/chinmaypardhi" target="_blank">
   <img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
 </a>&nbsp;
-<a href="https://linkedin.com/in/chinmay-pardhikar-209384191" >
+<a href="https://linkedin.com/in/chinmay-pardhikar-209384191" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a> 
 <!--
